@@ -10,6 +10,7 @@
 | Project | Link |
 |---------|------|
 | Awesome AI Agents | [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) |
+| Agent Payment Node | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) |
 | Open Interpreter | [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) |
 | Adala | [HumanSignal/Adala](https://github.com/HumanSignal/Adala) |
 
